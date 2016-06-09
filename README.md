@@ -2,12 +2,12 @@
 Docker container with bower installed and example compose file to use it automatedly.
 
 Simply:
-´´´
+```
 $ docker-compose run bower [command] [options]
-´´´
+```
 or standalone
-´´´
-´´´
+```
+```
 ## How it works
 
 ## Why another bower container?
