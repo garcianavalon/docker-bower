@@ -4,4 +4,4 @@ services:
     build: .
     image: garcianavalon/bower
     volumes:
-      - ./test:/bower
+      - ./demo:/bower
