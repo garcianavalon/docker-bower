@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "homepage": "https://github.com/garcianavalon/docker-bower",
+  "authors": [
+    "Enrique Garcia Navalon <garcianavalon@gmail.com>"
+  ],
+  "description": "just to test it works :D",
+  "main": "",
+  "keywords": [
+    "bower",
+    "with",
+    "docker",
+    "is",
+    "cool"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "1.5.0"
+  }
+}
