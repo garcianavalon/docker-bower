@@ -7,4 +7,4 @@ RUN npm install -g bower
 RUN mkdir -p bower
 WORKDIR bower
 
-CMD bower --allow-root
+ENTRYPOINT ["bower", "--allow-root"]
